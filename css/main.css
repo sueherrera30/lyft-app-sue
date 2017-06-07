@@ -1,3 +1,4 @@
+/*estilos de paginas de inicio*/
 html,body{
     margin:0;
     height: 100vh;
@@ -44,7 +45,7 @@ html,body{
     justify-content: flex-end;
 	display: none;
 }
- 
+
 .btn{
 	background-color:transparent;
 }
@@ -55,5 +56,58 @@ html,body{
 .botones{
 	display: flex;
 	justify-content: space-around;
- 
 }
+/*termina seccion de paginas de entrada*/
+
+/*estilos de formulario*/
+.signo{
+	font-size: 10vh;
+	font-family:monospace;
+	color: deeppink;
+}
+.btn{
+ color:deeppink;
+}
+
+.btn:hover, .btn-large:hover{
+    background-color:transparent;
+}
+
+.dropdown-button{
+	margin-top: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
